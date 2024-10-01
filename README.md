@@ -1,4 +1,4 @@
-# Volcano-Eruption-Modelling-Using-Blender
+# Volcano Eruption Modelling Using Blender
 
 Here are the concise steps for setting up and running the Blender project on volcano eruption:
 1. Download Software: Install the latest version of Blender (3.0 or newer).
