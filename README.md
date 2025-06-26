@@ -55,6 +55,12 @@ Here are the concise steps for setting up and running the Blender project on vol
 - Explore machine learning for procedural terrain generation
 
 ---
+## 📘 Additional Resources
+
+For a complete explanation of the Project,  
+**[Click here to view the full project report](https://github.com/dhruvakashyap73/VolcanoEruptionModel/blob/main/Project%20Report.pdf)**
+
+---
 
 👨‍💻 **Developed by**: Dhruva Kashyap <br>
 🎓 B.E. in Artificial Intelligence and Machine Learning, BNMIT, Bengaluru <br> 
