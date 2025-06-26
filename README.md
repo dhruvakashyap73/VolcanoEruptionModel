@@ -27,9 +27,9 @@ The project simulates a realistic volcanic eruption in a virtual environment. Th
 ## 🖥️ System Requirements
 
 ### Minimum:
-- **RAM**: 16GB  
-- **GPU**: 4GB VRAM (e.g., NVIDIA GTX 1060)  
-- **Storage**: 500GB SSD  
+- **RAM**: 8GB +
+- **GPU**: 4GB VRAM (e.g., NVIDIA GTX 1060) 
+- **Storage**: 100GB SSD  
 - **Display**: Full HD monitor  
 - **Software**: Blender 3.0+, Windows/Linux/macOS
 
