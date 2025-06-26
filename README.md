@@ -52,14 +52,10 @@ Here are the concise steps for setting up and running the Blender project on vol
 - Support multiplatform deployment (VR headsets, web-based VR, AR apps)
 - Include educational overlays and interactive geological content
 - Explore machine learning for procedural terrain generation
-
-## 📚 References
-- [Volcano Creation in Blender – YouTube Tutorial](https://www.youtube.com/watch?v=hArdXI2VY20&t=1s)
-- [Blender Volcanic Simulation – YouTube Guide](https://www.youtube.com/watch?v=pR0k1XOBvwo&t=1502s)
-
+- 
 ---
 
-👨‍💻 **Developed by**: Dhruva Kashyap  
-🎓 B.E. in Artificial Intelligence and Machine Learning, BNMIT, Bengaluru  
-📅 Academic Year: 2023–2024
+👨‍💻 **Developed by**: Dhruva Kashyap <br>
+🎓 B.E. in Artificial Intelligence and Machine Learning, BNMIT, Bengaluru <br> 
+
 
