@@ -42,6 +42,7 @@ Here are the concise steps for setting up and running the Blender project on vol
 
 
 ## 📈 Outcomes
+- 🎥 [Click here to watch the final modeling output](https://youtu.be/vLpgZpSvgTM)
 - A visually rich and technically detailed simulation of a volcanic eruption
 - Demonstrated the integration of multiple Blender systems: modeling, animation, simulation, shading, and compositing
 - Created an immersive experience suitable for educational, gaming, or interactive AR/VR environments
@@ -52,7 +53,7 @@ Here are the concise steps for setting up and running the Blender project on vol
 - Support multiplatform deployment (VR headsets, web-based VR, AR apps)
 - Include educational overlays and interactive geological content
 - Explore machine learning for procedural terrain generation
-- 
+
 ---
 
 👨‍💻 **Developed by**: Dhruva Kashyap <br>
