@@ -61,7 +61,9 @@ For a complete explanation of the Project, **[Click here to view the full projec
 
 ---
 
-👨‍💻 **Developed by**: Dhruva Kashyap <br>
-🎓 B.E. in Artificial Intelligence and Machine Learning, BNMIT, Bengaluru <br> 
+👨‍💻 **Developed by**: <br>
+Dhruva Kashyap <br>
+B.E. in Artificial Intelligence and Machine Learning, <br>
+BNMIT, Bengaluru <br> 
 
 
