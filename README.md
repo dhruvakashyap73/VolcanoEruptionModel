@@ -2,10 +2,10 @@
 
 This project is an immersive Augmented Reality / Virtual Reality simulation of a **volcanic eruption**, created using **Blender 3D**. It showcases a realistic and dynamic volcanic landscape, integrating fluid dynamics, particle systems, shaders, and compositing effects to create a stunning visual experience.
 
-## 🎯 Project Overview
+## Project Overview
 The project simulates a realistic volcanic eruption in a virtual environment. Through Blender's powerful modeling and simulation tools, this project aims to deliver an engaging and educational AR/VR experience that captures the scale, intensity, and atmosphere of an erupting volcano.
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - **Blender 3.0+** – for 3D modeling, sculpting, simulation, and rendering
 - **Blender Add-ons** – Landscape tool, Node Wrangler, etc.
 - **Texture & Shader Techniques** – Emission shaders, bump maps, fluid materials
@@ -13,7 +13,7 @@ The project simulates a realistic volcanic eruption in a virtual environment. Th
 - **Compositing** – Mist, glow, and post-processing enhancements
 - **Audio Integration** – Synced volcano eruption sound for added realism
 
-## 🧩 Features Implemented
+## Features Implemented
 - Sculpted terrain with realistic volcanic ridges and craters
 - Fluid simulation for lava flows with customizable direction, velocity, and viscosity
 - Particle systems for sparks, ash clouds, and glowing debris
@@ -24,7 +24,7 @@ The project simulates a realistic volcanic eruption in a virtual environment. Th
 - Audio integration synced to the eruption
 - Compositing effects such as glow, mist, and color grading
 
-## 🖥️ System Requirements
+## System Requirements
 
 ### Minimum:
 - **RAM**: 8GB +
@@ -33,7 +33,7 @@ The project simulates a realistic volcanic eruption in a virtual environment. Th
 - **Display**: Full HD monitor  
 - **Software**: Blender 3.0+, Windows/Linux/macOS
 
-##  🛠️ Setup Instructions
+## Setup Instructions
 Here are the concise steps for setting up and running the Blender project on volcano eruption:
 1. Download Software: Install the latest version of [Blender 3.0](https://www.blender.org/download/)
 2. Clone Project: Clone your GitHub repository containing the .blend files using Git
@@ -41,13 +41,13 @@ Here are the concise steps for setting up and running the Blender project on vol
 4. Run the Simulation: Adjust any required simulation settings (e.g., fluid dynamics, particle system). Hit F12 to render the scene, or press Alt+A to run the simulation for visualization.
 
 
-## 📈 Outcomes
+## Outcomes
 - 🎥 [Click here to watch the final modeling output](https://youtu.be/vLpgZpSvgTM)
 - A visually rich and technically detailed simulation of a volcanic eruption
 - Demonstrated the integration of multiple Blender systems: modeling, animation, simulation, shading, and compositing
 - Created an immersive experience suitable for educational, gaming, or interactive AR/VR environments
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Add interactive triggers in AR/VR (e.g., control lava flow or time of day)
 - Optimize for real-time mobile AR platforms using Unity or Unreal
 - Support multiplatform deployment (VR headsets, web-based VR, AR apps)
@@ -55,6 +55,6 @@ Here are the concise steps for setting up and running the Blender project on vol
 - Explore machine learning for procedural terrain generation
 
 ---
-## 📘 Additional Resources
+## Additional Resources
 
 For a complete explanation of the Project, **[Click here to view the full project report](https://github.com/dhruvakashyap73/VolcanoEruptionModel/blob/main/Project%20Report.pdf)**
