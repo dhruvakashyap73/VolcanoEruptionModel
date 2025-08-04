@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhruvakashyap73/VolcanoEruptionModel/blob/main/Photo/Logo-VEM.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/dhruvakashyap73/VolcanoEruptionModel/blob/main/Photo/Logo-VEM.png" alt="Logo" width="300" height="300">
 </p>
 
 This project is an immersive Augmented Reality / Virtual Reality simulation of a **volcanic eruption**, created using **Blender 3D**. It showcases a realistic and dynamic volcanic landscape, integrating fluid dynamics, particle systems, shaders, and compositing effects to create a stunning visual experience.
